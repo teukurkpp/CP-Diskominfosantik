@@ -13,7 +13,7 @@ Responsible for:
 - Frontend–backend integration
 - System testing
 - Database management for both admin dashboard and public website
-- 
+
 🎨 Frontend Development
 Adit Tazkia Aulia Mufid & Rizky Azhari Putra
 
