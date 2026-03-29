@@ -3,6 +3,7 @@
 This project is a web-based system developed collaboratively with clear role distribution among team members.
 
 👨‍💻 Backend & System Design
+
 Teuku Raka Pratama Putra & Muhammad Rafly Dwi Gunawan
 
 Responsible for:
@@ -15,6 +16,7 @@ Responsible for:
 - Database management for both admin dashboard and public website
 
 🎨 Frontend Development
+
 Adit Tazkia Aulia Mufid & Rizky Azhari Putra
 
 Responsible for:
